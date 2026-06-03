@@ -56,7 +56,4 @@ N’hésite pas à explorer mes repos — chaque projet est une occasion d’en 
 ---
 
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=N0wayys&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0wayys&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=N0wayys&theme=tokyonight)
